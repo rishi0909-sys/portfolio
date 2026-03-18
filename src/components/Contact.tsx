@@ -28,7 +28,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
+              href="https://www.linkedin.com/in/rishabh-mudgal-367511327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -36,7 +36,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/raxx21_official"
+              href="https://x.com/rishabh791464?s=21"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -44,7 +44,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/therajeshchityal"
+              href="https://www.instagram.com/r1.sh4bhhh?igsh=MWp4MmV3b3hjZXdicw%3D%3D&utm_source=qr"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
